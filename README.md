@@ -44,7 +44,7 @@ Users should be able to:
 
 ### What I learned
 
-In this project i learned how to use tailwindCss. Was relativley easy to learn and I found it to be way more easy to style the page for multiple screens.
+In this project T learned how to use tailwindCss. Was relativley easy to learn and I found it to be way more easy to style the page for multiple screens.
 
 ### Continued development
 
